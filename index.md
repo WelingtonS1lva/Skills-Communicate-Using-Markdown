@@ -1,3 +1,3 @@
-# Testing the first Header, which is the biggest.
+# Frist image of the exercise.
 
-###### Testing the last header, which is the smallest.
+![Image of Labtocat](https://octodex.github.com/images/labtocat.png)
