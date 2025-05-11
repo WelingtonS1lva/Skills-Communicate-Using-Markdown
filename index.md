@@ -14,3 +14,7 @@ int main() {
 }
 ````
 ----------------------
+
+- [x] Starting with markdown
+- [x] Step 1,2,3,4
+- [ ] Finish with 5
