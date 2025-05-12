@@ -16,5 +16,5 @@ int main() {
 ----------------------
 
 - [x] Starting with markdown
-- [x] Step 1,2,3,4
-- [ ] Finish with 5
+- [x] Step #1,#2,#3 and #4
+- [x] Finish #5
